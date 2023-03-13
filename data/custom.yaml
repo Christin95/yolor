@@ -1,0 +1,9 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /home/ipek/Desktop/final_baseline_data/train_val_baseline
+test: /home/ipek/Desktop/final_baseline_data/testing_baseline
+val: /home/ipek/Desktop/final_baseline_data/train_val_baseline
+# number of classes
+nc: 3
+
+# class names
+names: ['bike', 'traffic_light', 'vehicle']
