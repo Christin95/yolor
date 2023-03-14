@@ -1,7 +1,7 @@
 # train and val datasets (image directory or *.txt file with image paths)
-train: /home/ipek/Desktop/final_baseline_data/train_val_baseline
-test: /home/ipek/Desktop/final_baseline_data/testing_baseline
-val: /home/ipek/Desktop/final_baseline_data/train_val_baseline
+train: /home/ipek/Desktop/final_baseline_data/train_val_baseline/train
+test: /home/ipek/Desktop/final_baseline_data/train_val_baseline/test
+val: /home/ipek/Desktop/final_baseline_data/train_val_baseline/test
 # number of classes
 nc: 3
 
